@@ -1,0 +1,17 @@
+header {
+    font-size: 16pt;
+}
+div img {
+    width: 120px;
+    height: 150px;
+    border: 1px dashed black;
+}
+p img {
+    width: 75px;
+    height: 75px;
+}
+footer img {
+    width: 75px;
+    height: 75px;
+    align: top;
+}
